@@ -13,11 +13,7 @@ This module focuses on building recommendation systems to provide personalized s
 
 To understand how recommendation algorithms can be used to generate personalized user experiences and improve decision-making in data-driven systems.
 
-## Planned Projects
+## Projects
 
 - Association Rule Based Recommender System
 - Hybrid Recommender System
-
-## Status
-
-🚧 In progress — implementations will be added.
