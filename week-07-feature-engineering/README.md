@@ -14,6 +14,6 @@ This module focuses on preparing raw data for machine learning models by transfo
 
 To understand how to clean, transform, and optimize features in order to improve model performance.
 
-## Planned Project
+## Project
 
 - Diabetes prediction dataset preprocessing
